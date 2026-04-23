@@ -1,2 +1,3 @@
 # proyecto_php
-es una demo den php
+es una demo en php
+
